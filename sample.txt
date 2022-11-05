@@ -1,3 +1,4 @@
 "Hello Git" 
 testtest
 develop add
+10/1のハイキングは雨天順延です。
